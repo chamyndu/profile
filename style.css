@@ -1,0 +1,123 @@
+/* Here goes your CSS */
+body {
+  background: #DFE2D8;
+  font-family: 'Josefin Sans', sans-serif;;
+  color: #2F1F22;
+  font-size: 40;
+  line-height: 20px;
+  padding: 0px;
+
+}
+
+li {
+  padding: 10px;
+}
+
+p {
+  padding: 10px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: 'Droid Serif', serif;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(40, 40, 40);
+  font-family: 'Droid Serif', serif;
+}
+a {
+  text-decoration: none;
+  color: #2F1F22
+}
+
+a:hover {
+  color: red;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.img-size-1 {
+  height: 200px;
+  width: 300px;
+  border-radius: 2px;
+  box-shadow: 1px 1.5px 0.5px #888888;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: : 5px;
+}
+
+.img-size-2 {
+  height: 350px;
+  width: 300px;
+  overflow: hidden;
+  border-radius: 2px;
+  box-shadow: 1px 1.5px 0.5px #888888;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-size-3 {
+  height: 150px;
+  width: 245px;
+  border-radius: 2px;
+  box-shadow: 1px 1.5px 0.5px #888888;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 100px;
+  border: 3px;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.container {
+  width: 500px;
+  padding: 16px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-bottom: 10px;
+  margin-right: auto;
+}
+
+.card {
+  background: white;
+  border-radius: 5px;
+  box-shadow: 1px 1.5px 0.5px #888888;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon li {
+  display: inline-block;
+  padding: 0px 20px
+}
+
+.text-center {
+  text-align: center;
+}
+
+.icon i {
+  font-size: 50px;
+  text-align: center;
+}
