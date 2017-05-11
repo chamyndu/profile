@@ -1,0 +1,14 @@
+/* Your profile header CSS code here */
+.profile-header-wrapper {
+  background: #FFD1BA;
+  color: rgb(40, 40, 40);
+}
+.profile-header-wrapper h2 {
+  font-weight: 500;
+  opacity: 0.6;
+}
+.profile-header-infos {
+  text-align: center;
+  max-width: 1080px;
+  margin: 0 auto;
+}
